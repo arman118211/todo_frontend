@@ -1,5 +1,5 @@
 {
-  "name": "frontend-web",
+  "name": "todo-frontend",
   "compatibility_date": "2025-12-23",
   "assets": {
     "directory": "./dist"
